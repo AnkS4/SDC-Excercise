@@ -1,2 +1,3 @@
 # SDC-Excercise
-Some Excercise from SDC Nanodegree
+
+Few interesting excercies from Udacity's Self-Driving Car Nanodegree.
